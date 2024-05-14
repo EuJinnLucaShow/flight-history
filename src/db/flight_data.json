@@ -1,0 +1,502 @@
+[
+    {
+        "timestamp": 1683234000,
+        "speed": "450.53",
+        "direction": "54.88"
+    },
+    {
+        "timestamp": 1683234060,
+        "speed": "454.77",
+        "direction": "87.21"
+    },
+    {
+        "timestamp": 1683234120,
+        "speed": "440.89",
+        "direction": "126.68"
+    },
+    {
+        "timestamp": 1683234180,
+        "speed": "586.11",
+        "direction": "122.17"
+    },
+    {
+        "timestamp": 1683234240,
+        "speed": "537.81",
+        "direction": "103.63"
+    },
+    {
+        "timestamp": 1683234300,
+        "speed": "516.29",
+        "direction": "79.48"
+    },
+    {
+        "timestamp": 1683234360,
+        "speed": "553.72",
+        "direction": "107.29"
+    },
+    {
+        "timestamp": 1683234420,
+        "speed": "590.68",
+        "direction": "63.71"
+    },
+    {
+        "timestamp": 1683234480,
+        "speed": "472.67",
+        "direction": "81.09"
+    },
+    {
+        "timestamp": 1683234540,
+        "speed": "435.49",
+        "direction": "90.67"
+    },
+    {
+        "timestamp": 1683234600,
+        "speed": "531.48",
+        "direction": "121.51"
+    },
+    {
+        "timestamp": 1683234660,
+        "speed": "413.10",
+        "direction": "81.61"
+    },
+    {
+        "timestamp": 1683234720,
+        "speed": "464.63",
+        "direction": "76.21"
+    },
+    {
+        "timestamp": 1683234780,
+        "speed": "465.39",
+        "direction": "113.74"
+    },
+    {
+        "timestamp": 1683234840,
+        "speed": "531.52",
+        "direction": "128.13"
+    },
+    {
+        "timestamp": 1683234900,
+        "speed": "477.07",
+        "direction": "54.27"
+    },
+    {
+        "timestamp": 1683234960,
+        "speed": "430.05",
+        "direction": "97.43"
+    },
+    {
+        "timestamp": 1683235020,
+        "speed": "467.56",
+        "direction": "100.47"
+    },
+    {
+        "timestamp": 1683235080,
+        "speed": "414.75",
+        "direction": "128.95"
+    },
+    {
+        "timestamp": 1683235140,
+        "speed": "519.32",
+        "direction": "96.22"
+    },
+    {
+        "timestamp": 1683235200,
+        "speed": "466.24",
+        "direction": "58.24"
+    },
+    {
+        "timestamp": 1683235260,
+        "speed": "541.62",
+        "direction": "59.17"
+    },
+    {
+        "timestamp": 1683235320,
+        "speed": "408.92",
+        "direction": "57.21"
+    },
+    {
+        "timestamp": 1683235380,
+        "speed": "579.09",
+        "direction": "55.11"
+    },
+    {
+        "timestamp": 1683235440,
+        "speed": "598.13",
+        "direction": "60.55"
+    },
+    {
+        "timestamp": 1683235500,
+        "speed": "590.61",
+        "direction": "75.21"
+    },
+    {
+        "timestamp": 1683235560,
+        "speed": "497.31",
+        "direction": "46.21"
+    },
+    {
+        "timestamp": 1683235620,
+        "speed": "539.36",
+        "direction": "111.04"
+    },
+    {
+        "timestamp": 1683235680,
+        "speed": "433.48",
+        "direction": "68.03"
+    },
+    {
+        "timestamp": 1683235740,
+        "speed": "534.33",
+        "direction": "109.45"
+    },
+    {
+        "timestamp": 1683235800,
+        "speed": "580.93",
+        "direction": "72.40"
+    },
+    {
+        "timestamp": 1683235860,
+        "speed": "529.06",
+        "direction": "63.29"
+    },
+    {
+        "timestamp": 1683235920,
+        "speed": "465.98",
+        "direction": "132.80"
+    },
+    {
+        "timestamp": 1683235980,
+        "speed": "425.18",
+        "direction": "105.03"
+    },
+    {
+        "timestamp": 1683236040,
+        "speed": "547.73",
+        "direction": "70.42"
+    },
+    {
+        "timestamp": 1683236100,
+        "speed": "462.85",
+        "direction": "82.03"
+    },
+    {
+        "timestamp": 1683236160,
+        "speed": "456.61",
+        "direction": "100.83"
+    },
+    {
+        "timestamp": 1683236220,
+        "speed": "512.52",
+        "direction": "64.18"
+    },
+    {
+        "timestamp": 1683236280,
+        "speed": "561.70",
+        "direction": "76.72"
+    },
+    {
+        "timestamp": 1683236340,
+        "speed": "417.94",
+        "direction": "132.71"
+    },
+    {
+        "timestamp": 1683236400,
+        "speed": "457.21",
+        "direction": "95.97"
+    },
+    {
+        "timestamp": 1683236460,
+        "speed": "439.79",
+        "direction": "73.96"
+    },
+    {
+        "timestamp": 1683236520,
+        "speed": "588.55",
+        "direction": "48.95"
+    },
+    {
+        "timestamp": 1683236580,
+        "speed": "512.29",
+        "direction": "132.90"
+    },
+    {
+        "timestamp": 1683236640,
+        "speed": "595.30",
+        "direction": "68.42"
+    },
+    {
+        "timestamp": 1683236700,
+        "speed": "578.63",
+        "direction": "62.37"
+    },
+    {
+        "timestamp": 1683236760,
+        "speed": "545.58",
+        "direction": "64.60"
+    },
+    {
+        "timestamp": 1683236820,
+        "speed": "498.09",
+        "direction": "95.87"
+    },
+    {
+        "timestamp": 1683236880,
+        "speed": "449.71",
+        "direction": "106.42"
+    },
+    {
+        "timestamp": 1683236940,
+        "speed": "508.41",
+        "direction": "71.46"
+    },
+    {
+        "timestamp": 1683237000,
+        "speed": "548.00",
+        "direction": "303.48"
+    },
+    {
+        "timestamp": 1683237060,
+        "speed": "497.47",
+        "direction": "238.08"
+    },
+    {
+        "timestamp": 1683237120,
+        "speed": "480.12",
+        "direction": "237.59"
+    },
+    {
+        "timestamp": 1683237180,
+        "speed": "516.21",
+        "direction": "231.66"
+    },
+    {
+        "timestamp": 1683237240,
+        "speed": "496.37",
+        "direction": "237.15"
+    },
+    {
+        "timestamp": 1683237300,
+        "speed": "457.98",
+        "direction": "296.18"
+    },
+    {
+        "timestamp": 1683237360,
+        "speed": "585.77",
+        "direction": "281.08"
+    },
+    {
+        "timestamp": 1683237420,
+        "speed": "459.31",
+        "direction": "300.76"
+    },
+    {
+        "timestamp": 1683237480,
+        "speed": "529.03",
+        "direction": "295.83"
+    },
+    {
+        "timestamp": 1683237540,
+        "speed": "424.49",
+        "direction": "245.79"
+    },
+    {
+        "timestamp": 1683237600,
+        "speed": "467.03",
+        "direction": "270.58"
+    },
+    {
+        "timestamp": 1683237660,
+        "speed": "510.07",
+        "direction": "259.75"
+    },
+    {
+        "timestamp": 1683237720,
+        "speed": "456.57",
+        "direction": "268.46"
+    },
+    {
+        "timestamp": 1683237780,
+        "speed": "456.52",
+        "direction": "299.85"
+    },
+    {
+        "timestamp": 1683237840,
+        "speed": "595.96",
+        "direction": "266.63"
+    },
+    {
+        "timestamp": 1683237900,
+        "speed": "509.11",
+        "direction": "313.01"
+    },
+    {
+        "timestamp": 1683237960,
+        "speed": "567.44",
+        "direction": "255.20"
+    },
+    {
+        "timestamp": 1683238020,
+        "speed": "461.70",
+        "direction": "251.75"
+    },
+    {
+        "timestamp": 1683238080,
+        "speed": "528.59",
+        "direction": "247.78"
+    },
+    {
+        "timestamp": 1683238140,
+        "speed": "552.67",
+        "direction": "230.66"
+    },
+    {
+        "timestamp": 1683238200,
+        "speed": "456.50",
+        "direction": "253.14"
+    },
+    {
+        "timestamp": 1683238260,
+        "speed": "540.85",
+        "direction": "268.28"
+    },
+    {
+        "timestamp": 1683238320,
+        "speed": "438.92",
+        "direction": "262.18"
+    },
+    {
+        "timestamp": 1683238380,
+        "speed": "416.62",
+        "direction": "271.15"
+    },
+    {
+        "timestamp": 1683238440,
+        "speed": "451.17",
+        "direction": "266.79"
+    },
+    {
+        "timestamp": 1683238500,
+        "speed": "573.17",
+        "direction": "246.43"
+    },
+    {
+        "timestamp": 1683238560,
+        "speed": "468.25",
+        "direction": "291.93"
+    },
+    {
+        "timestamp": 1683238620,
+        "speed": "577.40",
+        "direction": "260.92"
+    },
+    {
+        "timestamp": 1683238680,
+        "speed": "497.68",
+        "direction": "296.66"
+    },
+    {
+        "timestamp": 1683238740,
+        "speed": "405.30",
+        "direction": "232.25"
+    },
+    {
+        "timestamp": 1683238800,
+        "speed": "511.83",
+        "direction": "303.41"
+    },
+    {
+        "timestamp": 1683238860,
+        "speed": "401.27",
+        "direction": "241.97"
+    },
+    {
+        "timestamp": 1683238920,
+        "speed": "466.15",
+        "direction": "263.65"
+    },
+    {
+        "timestamp": 1683238980,
+        "speed": "481.40",
+        "direction": "264.53"
+    },
+    {
+        "timestamp": 1683239040,
+        "speed": "430.27",
+        "direction": "303.16"
+    },
+    {
+        "timestamp": 1683239100,
+        "speed": "517.11",
+        "direction": "289.98"
+    },
+    {
+        "timestamp": 1683239160,
+        "speed": "467.33",
+        "direction": "299.93"
+    },
+    {
+        "timestamp": 1683239220,
+        "speed": "440.04",
+        "direction": "240.63"
+    },
+    {
+        "timestamp": 1683239280,
+        "speed": "486.75",
+        "direction": "293.63"
+    },
+    {
+        "timestamp": 1683239340,
+        "speed": "471.78",
+        "direction": "286.72"
+    },
+    {
+        "timestamp": 1683239400,
+        "speed": "429.54",
+        "direction": "265.13"
+    },
+    {
+        "timestamp": 1683239460,
+        "speed": "406.14",
+        "direction": "258.69"
+    },
+    {
+        "timestamp": 1683239520,
+        "speed": "576.39",
+        "direction": "227.42"
+    },
+    {
+        "timestamp": 1683239580,
+        "speed": "465.04",
+        "direction": "226.30"
+    },
+    {
+        "timestamp": 1683239640,
+        "speed": "488.18",
+        "direction": "305.55"
+    },
+    {
+        "timestamp": 1683239700,
+        "speed": "546.05",
+        "direction": "302.42"
+    },
+    {
+        "timestamp": 1683239760,
+        "speed": "557.67",
+        "direction": "302.25"
+    },
+    {
+        "timestamp": 1683239820,
+        "speed": "538.64",
+        "direction": "280.81"
+    },
+    {
+        "timestamp": 1683239880,
+        "speed": "575.98",
+        "direction": "266.75"
+    },
+    {
+        "timestamp": 1683239940,
+        "speed": "524.42",
+        "direction": "247.94"
+    }
+]
